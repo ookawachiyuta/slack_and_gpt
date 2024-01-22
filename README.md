@@ -1,0 +1,2 @@
+# slack_and_gpt
+slackからchatGPTに質問をして回答を受け取ることができるコードです。
